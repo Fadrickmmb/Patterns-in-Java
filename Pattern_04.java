@@ -8,9 +8,9 @@ public class Pattern_04 {
 		// PATTERN 04 //
 		
 /*
- 		    *
+ 	        *
  	       * *
-          * * * 	
+              * * * 	
  	     * * * *
  	    * * * * * 
  	
